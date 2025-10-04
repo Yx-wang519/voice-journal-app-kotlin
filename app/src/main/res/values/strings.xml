@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">SafeTalk</string>
+
+    <!-- Main Screen -->
+    <string name="start_talking_button">🎙️ Start Talking</string>
+    <string name="view_history_button">🕒 View History</string>
+    <string name="title_main">SafeTalk - Voice Journal</string>
+    <string name="default_transcript">Recognized speech will appear here.</string>
+    <string name="location_unknown">📍 Location: Unknown</string>
+
+    <!-- History Screen -->
+    <string name="history_title">Journal History</string>
+
+    <!-- Feedback / Toasts -->
+    <string name="toast_listening">Listening...</string>
+    <string name="toast_speech_error">Speech recognition error.</string>
+    <string name="toast_permission_denied">Please grant microphone and location permissions.</string>
+    <string name="toast_journal_saved">Journal saved successfully.</string>
+
+    <!-- Error fallback -->
+    <string name="error_could_not_understand">Could not understand.</string>
+</resources>
